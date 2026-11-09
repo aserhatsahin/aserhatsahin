@@ -1,47 +1,53 @@
-# Hi, I'm Ahmet Serhat Şahin 👋
+## Hi, I'm Serhat
 
-**Software Developer** · Information Systems and Technologies graduate from **Bilkent University** · Ankara, Türkiye
+I recently graduated from Bilkent University (Information Systems and Technologies) and I'm based in Ankara.
+I mostly work on backend services with Java & Spring Boot, mobile apps with Flutter, and web interfaces with Angular and React.
 
-> 💼 **Open to work:** I'm looking for full-time **backend, mobile or full-stack developer** roles.
-> Feel free to reach out on [LinkedIn](https://linkedin.com/in/aserhatsahin) or by [email](mailto:aserhatsahin@gmail.com).
+**I'm currently looking for a full-time developer role** (backend, mobile or full-stack). If you think I'd be a good fit for your team, I'd love to hear from you. My contact details and CV are at the bottom of this page.
 
-I build backend services with **Java & Spring Boot**, mobile apps with **Flutter**, and web interfaces with **Angular**.
-I enjoy learning, taking on new challenges, and working with people who are excited about technology.
+### Experience
 
-## 🧑‍💻 Experience
+**IBTech** · Web Application Development Intern · *Nov 2025 – May 2026*
+I worked on corporate banking interfaces in Angular and TypeScript. I also built FlowBuilder on my own, an internal tool the team uses to set up and manage API request workflows.
 
-- **IBTech** · Web Application Development Intern *(Nov 2025 – May 2026)*
-  Built corporate banking interfaces with Angular & TypeScript and independently developed **FlowBuilder**, an internal tool for configuring and managing API request workflows.
-- **Beyond Technologies** · Mobile Development Intern *(Jan 2025 – Jun 2025)*
-  Built a real-time Flutter messaging app with BLoC and Firebase (Auth, Firestore, Cloud Storage).
-- **Ziraat Teknoloji** · Software Engineering Intern *(Jun 2024 – Jul 2024)*
-  Wrote SQL Server queries for relational data processing and worked in an Agile/Scrum team.
+**Beyond Technologies** · Mobile Development Intern · *Jan 2025 – Jun 2025*
+I built a real-time messaging app in Flutter, using BLoC for state management and Firebase for auth, messages and image uploads.
 
-## 🛠️ Tech Stack
+**Ziraat Teknoloji** · Software Engineering Intern · *Jun 2024 – Jul 2024*
+I wrote SQL Server queries for relational data and saw how a large Agile/Scrum team works day to day.
 
-**Languages:** Java · TypeScript · JavaScript · Dart · Kotlin · C# · Python · SQL
-**Backend & Databases:** Spring Boot · REST APIs · .NET · PostgreSQL · MySQL · SQL Server · Firebase
-**Frontend & Mobile:** Angular · React · Flutter · BLoC · Dio · Mapbox
-**Tools & Cloud:** Git · Maven · Swagger · AWS (EC2) · Linux · Agile/Scrum
+### Things I've built
 
-## 📌 Featured Projects
+**Vacanza** (senior project)
+A travel search app. I wrote the Spring Boot + PostgreSQL APIs for location-based search and distance filtering, and the Flutter map screens with Mapbox, where you can draw an area on the map and filter places inside it. It placed 3rd out of 18 projects in the CTIS Senior Projects Competition.
 
-| Project | Description | Stack |
-|---|---|---|
-| **Vacanza** | Travel search app with location-based search, distance filtering and map-based POI filtering. 🥉 3rd place in the CTIS Senior Projects Competition (out of 18 projects) | Spring Boot · PostgreSQL · Flutter · Mapbox |
-| [Dietiary](https://github.com/aserhatsahin/Dietiary) | SaaS platform for dietitians: client management, measurement tracking and flexible meal plans, with a mobile app for clients | Java · Spring Boot · PostgreSQL |
-| [BooksMicroservices](https://github.com/aserhatsahin/BooksMicroservices) | Library management system built as microservices, with JWT + refresh tokens and role-based access control | .NET 8 · React 18 |
-| [BLocChatApp](https://github.com/aserhatsahin/BLocChatApp) | Real-time chat app | Flutter · BLoC · Firebase |
-| [NSWorkshop](https://github.com/aserhatsahin/NSWorkshop) | Management system for an art workshop: students, monthly fees, payments and product sales | PHP · MySQL |
+**[Dietiary](https://github.com/aserhatsahin/Dietiary)**
+A platform for dietitians and their clients. Dietitians use a web panel to manage clients and write meal plans. Clients follow their plan in a mobile app. Instead of fixed daily menus, each meal offers a few alternatives to choose from, which is how dietitians actually work. The app also reads body-composition reports from scale PDFs so measurements don't have to be typed in by hand.
+*Spring Boot, PostgreSQL, React, React Native*
 
-## 🏆 Achievements
+**[NSWorkshop](https://github.com/aserhatsahin/NSWorkshop)**
+A management system I built for a painting workshop. It keeps track of students, adds monthly fees automatically, and records payments and product sales.
+*PHP, MySQL*
 
-- 🥉 CTIS Senior Projects Competition: 3rd place among 18 projects (Vacanza)
-- 🔬 TÜBİTAK 2209-A Research Grant
-- 🎓 Bilkent University High Honor (2025–2026)
-- 🌐 Cisco CCNAv7: Introduction to Networks · Switching, Routing, and Wireless Essentials
+**[BooksMicroservices](https://github.com/aserhatsahin/BooksMicroservices)**
+A library app split into two independent .NET 8 services (books and users) with a React frontend. Login uses JWT with silent token refresh, and what you see on screen depends on your role.
+*.NET 8, React, TypeScript*
 
-## 📫 Contact
+**[BLocChatApp](https://github.com/aserhatsahin/BLocChatApp)**
+A Flutter chat app with typing indicators and live messages, organized feature by feature with BLoC.
+*Flutter, Firebase*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aserhatsahin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aserhatsahin)
-[![Email](https://img.shields.io/badge/Email-aserhatsahin%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aserhatsahin@gmail.com)
+### Tech I use
+
+Java, Spring Boot, PostgreSQL · Flutter, Dart, BLoC · Angular, React, TypeScript · C#, .NET · Kotlin, Python, SQL · Git, Maven, Swagger, AWS (EC2), Linux
+
+### A bit more about me
+
+During university I received a TÜBİTAK 2209-A research grant for a university research project, and I made the High Honor list in my final year. I also played for the Bilkent Judges American football team and spent two summers in the US on Work and Travel (Utah and Minnesota). I speak Turkish and English, and I'm learning German and Spanish.
+
+### Contact
+
+- **Email:** [aserhatsahin@gmail.com](mailto:aserhatsahin@gmail.com)
+- **Phone:** +90 555 833 56 20
+- **LinkedIn:** [linkedin.com/in/aserhatsahin](https://linkedin.com/in/aserhatsahin)
+- **CV:** [AhmetSerhatSahin_CV.pdf](./AhmetSerhatSahin_CV.pdf)
