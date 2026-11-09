@@ -1,6 +1,6 @@
 ## Hi, I'm Serhat
 
-I'm a recent Information Systems and Technologies graduate from Bilkent University, based in Ankara.
+I'm a recent Information Systems and Technologies graduate from Bilkent University, based in Ankara, open to relocation.
 
 During university I did internships in banking, mobile development and enterprise software, and I've built projects ranging from Spring Boot backends to Flutter apps and Angular interfaces.
 
