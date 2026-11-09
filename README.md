@@ -21,7 +21,7 @@ I wrote SQL Server queries for relational data and saw how a large Agile/Scrum t
 
 ### Things I've built
 
-**Vacanza** (senior project)
+**[Vacanza](https://github.com/VacanzaTravelApp/Vacanza)** (senior project)
 
 A travel search app. I wrote the Spring Boot + PostgreSQL APIs for location-based search and distance filtering, and the Flutter map screens with Mapbox, where you can draw an area on the map and filter places inside it. It placed 3rd out of 18 projects in the CTIS Senior Projects Competition.
 
